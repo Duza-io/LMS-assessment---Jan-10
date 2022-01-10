@@ -4,4 +4,4 @@ DebitInformation.cs
 CreditInformation.cs
 Program.cs
 
-these three files is all you need
+these three files are all you need
